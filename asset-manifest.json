@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/newdesign/static/css/main.b3cb17fb.css",
+    "main.js": "/newdesign/static/js/main.237dba88.js",
+    "static/media/bg.png": "/newdesign/static/media/bg.45773067920d3fa4c2ec.png",
+    "static/media/nro5.png": "/newdesign/static/media/nro5.b3b6989b30a0d6d85879.png",
+    "static/media/nro3.png": "/newdesign/static/media/nro3.14fb237ca1e65e4bf208.png",
+    "static/media/nro6.png": "/newdesign/static/media/nro6.80716c6344fb187e2045.png",
+    "static/media/nro1.png": "/newdesign/static/media/nro1.a8f7ef2508a6fb466818.png",
+    "static/media/nro4.png": "/newdesign/static/media/nro4.8b14e28a2ae51f304b6e.png",
+    "static/media/nro2.png": "/newdesign/static/media/nro2.f0687e15aefb3115d985.png",
+    "static/media/nosotros.jpg": "/newdesign/static/media/nosotros.9d7de8d0f90515da2ddb.jpg",
+    "index.html": "/newdesign/index.html",
+    "main.b3cb17fb.css.map": "/newdesign/static/css/main.b3cb17fb.css.map",
+    "main.237dba88.js.map": "/newdesign/static/js/main.237dba88.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3cb17fb.css",
+    "static/js/main.237dba88.js"
+  ]
+}
